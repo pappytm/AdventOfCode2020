@@ -1,2 +1,2 @@
 # AdventOfCode2020
-My AoC Solutions in Python
+Some of my AoC 2020 Solutions in Python
